@@ -1,0 +1,30 @@
+body
+{
+
+        background-image: url(Underwater.jpg);
+        background-size: 100%;
+        color: black;
+		background-attachment:fixed;
+}
+
+p
+{
+        background-color: black;
+        color: white;
+        font-family: Verdana;
+        font-size: 20pt;
+}
+
+p.christmas
+{
+        background-color: green;
+        color: red;
+        font-size: 10pt;
+        font-family: Ariel;
+}
+
+p:hover
+{
+	background-color:blue;
+	color:black
+}
